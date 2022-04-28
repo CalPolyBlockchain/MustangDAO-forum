@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Next.js Notion Starter Kit
+# MustangDAO governance tool for Blockchain at Cal Poly
 
 > The perfect starter kit for building websites with Next.js and Notion.
 
